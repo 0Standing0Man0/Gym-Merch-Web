@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-griffy: Griffy;
+  --h2: Hanuman;
+  --font-sora: Sora;
+  --font-cabin: Cabin;
+  --caption: "Alegreya SC";
+
+  /* font sizes */
+  --font-size-21xl: 40px;
+  --caption-size: 20px;
+  --font-size-11xl: 30px;
+  --h2-size: 55px;
+
+  /* Colors */
+  --color-gray-100: #080328;
+  --color-gray-200: rgba(30, 3, 46, 0.71);
+  --color-white: #fff;
+  --color-gainsboro: rgba(217, 217, 217, 0.2);
+  --color-steelblue: #2698bc;
+
+  /* border radiuses */
+  --br-mid: 17px;
+  --br-xl: 20px;
+}
